@@ -1,5 +1,17 @@
 # Retail Data Engineering Pipeline on Microsoft Azure
 
+---
+
+## Table of Contents
+
+- Overview
+- Architecture
+- Technologies
+- Pipeline
+- Project Structure
+- Dashboard
+- Features
+
 ## Overview
 
 This project demonstrates an end-to-end cloud data engineering solution built on Microsoft Azure. The pipeline ingests raw retail data, performs cleaning and transformation using PySpark, stores analytics-ready data in Parquet format, loads a Star Schema into Azure Synapse Dedicated SQL Pool, and visualizes business insights using Power BI.
@@ -12,6 +24,9 @@ This project demonstrates an end-to-end cloud data engineering solution built on
 <img src="Architecture/Project_arch.png" width="900">
 </p>
 
+<p align="center">
+<img src="Architecture/Star Schema.png" width="900">
+</p>
 ---
 
 ## Technologies
