@@ -67,15 +67,15 @@ Power BI Dashboard
 
 ## Dashboard
 <p align="center">
-<img src="PowerBI/Dashboard 1.png" width="900">
+<img src="PowerBI/Dashboard 1.PNG" width="900">
 </p>
 
 <p align="center">
-<img src="PowerBI/Dashboard 2.png" width="900">
+<img src="PowerBI/Dashboard 2.PNG" width="900">
 </p>
 
 <p align="center">
-<img src="PowerBI/Dashboard 3.png width="900">
+<img src="PowerBI/Dashboard 3.PNG" width="900">
 </p>
 
 
