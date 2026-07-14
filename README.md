@@ -50,6 +50,9 @@ Star Schema
 
 Power BI Dashboard
 
+<p align="center">
+<img src="Pipeline/Pipeline.png" width="900">
+</p>
 ---
 
 ## Project Structure
@@ -63,8 +66,18 @@ Power BI Dashboard
 ---
 
 ## Dashboard
+<p align="center">
+<img src="PowerBI/Dashboard 1.png" width="900">
+</p>
 
-<img src="Images/Dashboard.png">
+<p align="center">
+<img src="PowerBI/Dashboard 2.png" width="900">
+</p>
+
+<p align="center">
+<img src="PowerBI/Dashboard 3.png width="900">
+</p>
+
 
 ---
 
@@ -75,4 +88,4 @@ Power BI Dashboard
 - Data Cleaning using PySpark
 - Star Schema Data Warehouse
 - Interactive Power BI Dashboard
-- Parquet-based Analytics Layer<img width="1656" height="950" alt="Project_arch" src="https://github.com/user-attachments/assets/a28e5587-d470-4700-b456-b84552960a3f" />
+- Parquet-based Analytics Layer
